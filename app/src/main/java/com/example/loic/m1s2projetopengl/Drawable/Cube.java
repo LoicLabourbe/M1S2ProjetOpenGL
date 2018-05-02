@@ -42,6 +42,7 @@ public class Cube {
 
     private FloatBuffer vertexBuffer;
     private ByteBuffer mIndexBuffer;
+
     private FloatBuffer mTexBuffer;
 
     // number of coordinates per vertex in this array
