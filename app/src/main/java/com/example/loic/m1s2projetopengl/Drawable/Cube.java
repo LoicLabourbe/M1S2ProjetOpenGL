@@ -87,7 +87,7 @@ public class Cube {
              1, -1,  1  //1     23
 
     };
-
+//
 
     private byte indices[] = {
             0, 1, 2,
